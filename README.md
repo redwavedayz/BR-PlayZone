@@ -14,6 +14,8 @@ This forces players closer to each other as the game progresses in order to spee
   This will repeat until it reaches the final playzone. 
   
   Server owners can adjust closing_speed, tier_zone damage and more using the provided json.
-
-  ## THIS IS A WIP
   
+## Plans
+
+* ✅ Add Map Markers 
+* ✅ Ability for player to spawn playzone
