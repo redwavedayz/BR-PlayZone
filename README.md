@@ -19,3 +19,6 @@ This forces players closer to each other as the game progresses in order to spee
 
 * ✅ Add Map Markers 
 * ✅ Ability for player to spawn playzone
+* ✅ Prevent player from taking damage outside playzone using custom item
+
+[BR-PlayZone.json](https://github.com/redwavedayz/BR-PlayZone/files/14736273/BR-PlayZone.json)
